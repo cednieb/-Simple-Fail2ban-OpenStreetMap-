@@ -8,3 +8,5 @@
 # sudo apt-get install sqlite3
 # A free api key : https://ipinfo.io
 # And this script .
+
+# Free to use or modify
