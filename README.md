@@ -7,6 +7,6 @@
 # sudo apt-get install fail2ban 
 # sudo apt-get install sqlite3
 # A free api key : https://ipinfo.io
-# And this script .
+# And listban.sh / map_jscode.txt .
 
 # Free to use or modify
